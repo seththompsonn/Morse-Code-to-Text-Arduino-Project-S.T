@@ -18,4 +18,6 @@ reset the system as is is to press the reset button on the Arduino UNO
 for improved readabillity.
 - Adding in the use of both rows of a 2x16 LCD display as opposed to just 
 using one row.
+- Adding more characters to the LUT, since there as still some combinations of 
+dits and dahs not accounted for in the standard morse code 'alphabet'.
 
