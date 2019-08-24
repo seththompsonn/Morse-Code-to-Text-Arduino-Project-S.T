@@ -9,11 +9,11 @@ All that is left is a small amount of debugging and fine tuning.
 ** KNOWN BUGS: 
 - There are times where the '2' variable will not return.
 - The first character outputted to the LCD display is, usually, wrong.
--
+
 
 ** IMPROVEMENTS TO BE MADE:
 - Adding in a RESET button and START button. Only possible way to
 reset the system as is is to press the reset button on the Arduino UNO
 -Use of enumerators in librarys as opposed to just returning integer values
 for improved readabillity.
--
+
