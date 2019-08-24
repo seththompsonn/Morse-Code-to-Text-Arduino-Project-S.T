@@ -7,7 +7,7 @@ of dits and dahs as text on a LCD screen.
 All that is left is a small amount of debugging and fine tuning.
 
 ** KNOWN BUGS: 
-- There are times where the '2' variable will not return.
+- There are times where the '2' variable will not return (Which represents 'newditordah').
 - The first character outputted to the LCD display is, usually, wrong.
 
 
