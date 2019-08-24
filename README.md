@@ -14,6 +14,6 @@ All that is left is a small amount of debugging and fine tuning.
 ** IMPROVEMENTS TO BE MADE:
 - Adding in a RESET button and START button. Only possible way to
 reset the system as is is to press the reset button on the Arduino UNO
--Use of enumerators in librarys as opposed to just returning integer values
+- Use of enumerators in librarys as opposed to just returning integer values
 for improved readabillity.
 
