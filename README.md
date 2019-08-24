@@ -16,4 +16,6 @@ All that is left is a small amount of debugging and fine tuning.
 reset the system as is is to press the reset button on the Arduino UNO
 - Use of enumerators in librarys as opposed to just returning integer values
 for improved readabillity.
+- Adding in the use of both rows of a 2x16 LCD display as opposed to just 
+using one row.
 
